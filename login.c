@@ -13,7 +13,7 @@ main()
     printf("Enter your password  = "); 
     gets(password);
  
-    if(strcmp(email,"gaurangdobariya204@gmail.com")==0)
+    if(strcmp(email,"mbkaneriya1998@gmail.com")==0)
 	{ 
 	
  		printf("\n Correct E-mail ID");
@@ -26,7 +26,7 @@ main()
 	   	
 	} 
 	
-	if(strcmp(password,"Gaurang2004@#")==0)
+	if(strcmp(password,"maulik@024")==0)
 	{ 
 	
         printf("\n Correct password"); 
